@@ -1,0 +1,18 @@
+title: Elizabeth Golini, EdD
+email: elizabeth.golini@gmail.com
+description: >-
+  Research. Writing. Teaching.
+  BCBA and EdD with a focus on Special Education.
+baseurl: ""
+url: "https://elizabethgolini.com"
+github_username:  elizabethgolini
+
+# Build settings
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-feed
+- jekyll-remote-theme
+
+github:
+  # Disable some content that we don't want from the cayman theme
+  is_project_page: false
