@@ -38,5 +38,3 @@ Dr. Golini has worked in schools and organizations in Texas, New York City, and 
   - Thesis: Developing Leisure Skills and Shaping Preference in Children with Autism
 - Muhlenberg College
   - Bachelor’s Degree Anthropology and Theatre Cum Laude
-
-© Elizabeth Golini 2024
