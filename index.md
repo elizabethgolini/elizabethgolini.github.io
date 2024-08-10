@@ -7,7 +7,7 @@ title: Elizabeth Golini, EdD
 
 ![Beth]({{ site.baseurl }}/images/profile.jpg)
 
-Dr. Golini has worked in schools and organizations in Texas, New York City, and Maine for over 18 years. She is passionate about working schools and families to improve the outcomes for stuidents with special needs, while improving the experience for families, and education professionals.
+Dr. Golini has worked in schools and organizations in Texas, New York City, and Maine for over 18 years. She is passionate about working with schools and families to improve outcomes for students with special needs, while improving the experience for families and their working relationship with education professionals.
 
 
 ## Publications
