@@ -9,7 +9,9 @@ title: Elizabeth Golini, EdD
 
 For over 18 years, Dr. Golini has worked in various settings, including public, private, and special-purpose schools as well as non-profit organizations in Massachusetts, Texas, New York, New Hampshire, and Maine. 
 
-She is passionate about working with schools and families to improve outcomes for students with special needs (disabilities).
+She is passionate about working with schools and families to improve outcomes for students with disabilities.
+
+[Contact Me](mailto:{{ site.email }})
 
 ## Publications
 
@@ -28,7 +30,6 @@ She is passionate about working with schools and families to improve outcomes fo
 
 - [Resume]({{ site.baseurl }}/documents/Elizabeth J. Golini CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/elizabeth-golini-4b559b105)
-
 - INCLUDEnyc
   - Director of Parent and Family Engagement - School Age
 
