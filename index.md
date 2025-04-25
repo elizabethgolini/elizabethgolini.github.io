@@ -30,8 +30,6 @@ She is passionate about working with schools and families to improve outcomes fo
 
 - [Resume]({{ site.baseurl }}/documents/Elizabeth J. Golini CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/elizabeth-golini-4b559b105)
-- INCLUDEnyc
-  - Director of Parent and Family Engagement - School Age
 
 ## Education
 
