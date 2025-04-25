@@ -7,15 +7,21 @@ title: Elizabeth Golini, EdD
 
 ![Beth]({{ site.baseurl }}/images/profile.jpg)
 
-Dr. Golini has worked in schools and organizations in Texas, New York City, and Maine for over 18 years. She is passionate about working with schools and families to improve outcomes for students with special needs, while improving the experience for families and their working relationship with education professionals.
+For over 18 years, Dr. Golini has worked in various settings, including public, private, and special-purpose schools as well as non-profit organizations in Massachusetts, Texas, New York, New Hampshire, and Maine. 
 
+She is passionate about working with schools and families to improve outcomes for students with special needs (disabilities).
 
 ## Publications
 
 - [Understanding Family Experiences of IEP Meetings and Building Skills to Empower Families at the IEP Meeting](https://academicworks.cuny.edu/hc_sas_etds/1225/) ([PDF]({{ site.baseurl }}/documents/Elizabeth Golini Thesis.pdf))
+- [Lockdown Drills and Young Children with Autism Spectrum Disorder: Practitioner Confidence, Experiences, and Perceptions](https://link.springer.com/article/10.1007/s10803-023-06201-5) (co-author) 
 
 ## Presentations
 
+- AERA 2025 
+- BABAT 2024
+- AERA 2024 
+- [AERA 2022](https://www.aera.net/Portals/38/April%2024_Sunday_1.pdf)
 - [AERA 2020](https://www.abainternational.org/events/program-details/event-detail.aspx?sid=71637&by=author)
 
 ## Experience
